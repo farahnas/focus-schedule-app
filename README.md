@@ -28,33 +28,33 @@ A smart and user-friendly mobile app designed to help students efficiently manag
 ## 🧩 App Screens
 
 - **Intro Screen**  
-  📸 Screenshot: `screenshots/intro_screen.jpg`
-  📸 Screenshot: `screenshots/intro_screen2.jpg`
-  📸 Screenshot: `screenshots/intro_screen3.jpg`
+  ![📸 Screenshot](screenshots/intro_screen.jpg)
+  ![📸 Screenshot](screenshots/intro_screen2.jpg)
+  ![📸 Screenshot](screenshots/intro_screen3.jpg)
 - **Authentication Screens** (Login, Signup, Forget Password)  
-  📸 Screenshot: `screenshots/auth_screens.jpg`
-  📸 Screenshot: `screenshots/auth_screens2.jpg`
-  📸 Screenshot: `screenshots/auth_screens3.jpg`
+  ![📸 Screenshot](screenshots/auth_screens.jpg)
+  ![📸 Screenshot](screenshots/auth_screens2.jpg)
+  ![📸 Screenshot](screenshots/auth_screens3.jpg)
 - **Home Screen**  
-  📸 Screenshot: `screenshots/home_screen.jpg`
+  ![📸 Screenshot](screenshots/home_screen.jpg)
 
 - **Subject Input Screen**  
-  📸 Screenshot: `screenshots/subject_input.jpg`
+  ![📸 Screenshot](screenshots/subject_input.jpg)
 
 - **Schedule Screen**  
-  📸 Screenshot: `screenshots/schedule.jpg`
+  ![📸 Screenshot](screenshots/schedule.jpg)
 
 - **Profile Screen**  
-  📸 Screenshot: `screenshots/profile.jpg`
+  ![📸 Screenshot](screenshots/profile.jpg)
 
 - **Help Screen**  
-  📸 Screenshot: `screenshots/help.jpg`
+  ![📸 Screenshot](screenshots/help.jpg)
 
 - **Save Screen**  
-  📸 Screenshot: `screenshots/save.jpg`
+  ![📸 Screenshot](screenshots/save.jpg)
 
 - **Share Screen**  
-  📸 Screenshot: `screenshots/share.jpg`
+  ![📸 Screenshot](screenshots/share.jpg)
 ---
 
 ## 🆚 Competitors
